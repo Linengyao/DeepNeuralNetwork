@@ -140,7 +140,6 @@ void drawPred(int classId, float conf, int left, int top, int right, int bottom,
 //opencv µ÷ÓÃ yolov3 demo
 int yoloV3()
 {
-
 	VideoCapture cap(YOLOV3_VIDEO);
 
 	if (!cap.isOpened())return -1;

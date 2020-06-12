@@ -24,6 +24,7 @@ int main()
 	//开始计时
 	double start = static_cast<double>(getTickCount());
 
+
 	int method = DEMO_METHOD;
 
 	if (method == 0) {
