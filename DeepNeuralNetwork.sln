@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeepNeuralNetwork", "DeepNeuralNetwork\DeepNeuralNetwork.vcxproj", "{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Debug|x64.ActiveCfg = Debug|x64
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Debug|x64.Build.0 = Debug|x64
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Debug|x86.Build.0 = Debug|Win32
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Release|x64.ActiveCfg = Release|x64
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Release|x64.Build.0 = Release|x64
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Release|x86.ActiveCfg = Release|Win32
+		{DCB5BF2E-B2B8-4C8D-8336-085B89C433DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E22064B0-A5F3-45FB-A2D4-F29BDDF53D84}
+	EndGlobalSection
+EndGlobal
